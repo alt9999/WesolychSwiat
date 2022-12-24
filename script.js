@@ -1,6 +1,6 @@
 var i = 0;
 var txt = `Aby otrzymać prezent rozwiaż quiz i otrzymaj kod dzięki któremu znajdziesz swój prezent. Powodzenia !`;
-var speed = 100; 
+var speed = 50; 
 
 
 var prawidlowe = 0
